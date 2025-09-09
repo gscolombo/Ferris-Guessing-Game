@@ -12,4 +12,5 @@ The goal is to guess the number from 1 to 100 that Ferris (the cute crab below) 
     ```bash
     cargo run
     ```
-
+## Releases
+Pre-built binaries for Windows and Linux are available on the [Releases](https://github.com/your-username/guessing_game/releases) page. Download the appropriate file for your system to run the game without building from source.
