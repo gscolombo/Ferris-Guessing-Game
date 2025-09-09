@@ -5,7 +5,7 @@ use rand::Rng;
 
 fn welcoming() {
     let stdout = stdout();
-    let out = String::from("Hello! My name is Ferry!
+    let out = String::from("Hello! My name is Ferris!
                         Let's play a guessing game!
                         I'm thinking about a number between 1 and 100.
                         Try to guess the number in my head!");
